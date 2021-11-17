@@ -9,8 +9,12 @@ Customizable, Responsive, Flexible and easy images and video gallery library. A 
 Make sure node is installed.
 
 ```
-npm install React-customizable-image-and-video-gallery
+git clone https://github.com/pinalzala/React-customizable-image-and-video-gallery.git
+cd React-customizable-image-and-video-gallery
+npm install
+npm start
 ```
+Then open [localhost:3000](http://localhost:3000/) in a browser.
 
 ## Features
 
